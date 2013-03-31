@@ -1,0 +1,13 @@
+{
+  "name": "Ubercalc",
+  "description": "Simple, powerful HTML5 calculator with three modes.",
+  "launch_path": "/",
+  "icons": {
+    "128": "ubercalc.png"
+  },
+  "developer": {
+    "name": "Joan Creus",
+    "url": "http://twitter.com/jcreusc"
+  },
+  "default_locale": "en"
+}
